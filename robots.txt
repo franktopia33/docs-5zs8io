@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-rfxiuf.mon-saas.com/sitemap.xml
